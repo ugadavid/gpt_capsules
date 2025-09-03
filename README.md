@@ -19,7 +19,7 @@ Chaque entrée garde trace des structures, vocabulaire et points à consolider.
   ✔️ Bien capté.  
   ⚠️ Ne pas oublier l’objet après *play with* 😅  
 
-- **Little did I know…**  
+- **Little did I know… that…**  
   ✔️ Excellente utilisation, même en mode humoristique.  
   ⚠️ À consolider pour la fluidité (penser à “meant” au passé).  
 
@@ -27,6 +27,8 @@ Chaque entrée garde trace des structures, vocabulaire et points à consolider.
   🚀 À venir (structure conditionnelle dramatique).  
 
 ---
+
+
 
 ## 🌍 Vocabulaire exploré
 
