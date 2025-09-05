@@ -8,7 +8,7 @@ que je construis avec mon GPT préféré. Un mélange de sérieux (C1, mémoire 
 ## 🚀 Capsules & Suivi
 
 - [checklist_C1.md](checklist_C1.md) → la to-do list des structures C1 que je bosse chaque semaine  
-- [synonyms_C1.md](synonyms_C1.md) → la boîte à synonymes pour éviter le mode "blanc/noir" et muscler mon vocabulaire  
+- [synonyms_C1.md](vocabulary_C1.md) → la boîte à synonymes pour éviter le mode "blanc/noir" et muscler mon vocabulaire  
 
 ---
 
