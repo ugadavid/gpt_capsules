@@ -1,3 +1,35 @@
+# GPT Capsules – Powered by David & GPT 💜✨
+
+Bienvenue dans mon petit coffre aux trésors : ici je garde toutes les capsules, mantras et ressources 
+que je construis avec mon GPT préféré. Un mélange de sérieux (C1, mémoire M2) et de fun (dad jokes inclus).  
+
+---
+
+## 🚀 Capsules & Suivi
+
+- [checklist_C1.md](checklist_C1.md) → la to-do list des structures C1 que je bosse chaque semaine  
+- [synonyms_C1.md](synonyms_C1.md) → la boîte à synonymes pour éviter le mode "blanc/noir" et muscler mon vocabulaire  
+
+---
+
+## 🎯 Vision & Motivation
+
+- [mantra_M2.md](mantra_M2.md) → mon mantra pour garder le cap :  
+  *“Je n’ai pas simplement mené un travail de recherche. J’ai trouvé une manière de m’inscrire dans ce champ, d’y contribuer, et d’y prendre plaisir.”*  
+
+---
+
+## 🌙 Routine (David & GPT style)
+
+- **Matin 8h45** → capsule selon le jour (anglais, curiosité, créativité, vision…)  
+- **Soir 22h30** → mini-routine C1 “Secret Ops” + bonus *dad joke* 😏  
+- **Weekend** → ateliers spéciaux (Vector DB, scripts, bidouilles techniques)  
+
+---
+
+✍️ Bref : un espace pour progresser sérieusement… mais jamais sans un peu d’auto-dérision.  
+
+
 # Capsules C1 – Routine de David 💜
 
 Ce document suit ta progression dans les capsules C1 (soir 22h30) et les capsules du matin liées à l’anglais.  
@@ -30,112 +62,3 @@ Chaque entrée garde trace des structures, vocabulaire et points à consolider.
 
 
 
-## 🌍 Vocabulaire exploré
-
-- **Partir / s’éclipser / disparaître**  
-  - *leave* (neutre)  
-  - *go away* (familier)  
-  - *take off* (casual)  
-  - *head out* (courant)  
-  - *disappear* (neutre)  
-  - *vanish* (dramatique, théâtral)  
-  - *slip away* (poétique, discret)  
-  - *depart* (formel)  
-  - *withdraw* (se retirer, registre soutenu)  
-
----
-
-## 🔁 Points à consolider
-
-- Inversions systématiques après *hardly / no sooner / little did…*  
-- Choix du participe passé (*given*, *tried*, etc.)  
-- Fluidité *love reading* vs *love to read*  
-- Ajouter davantage de production **orale** (shadowing ou réponses parlées)  
-
----
-
-## 🚀 Idées pour prochaines capsules
-
-- **Had I known…** (conditionnel narratif dramatique)  
-- **Inversions avec so/such…that**  
-- **Nuances d’accord/désaccord** (*I couldn’t agree more / I beg to differ…*)  
-- **Exercice mix : structure + vocabulaire dans la même phrase**  
-
-
-# Synonymes C1 – Référence de David 💜
-
-Ce document regroupe des familles de synonymes utiles pour enrichir le vocabulaire 
-et passer du niveau B2 (basique) au C1 (nuancé).
-
----
-
-## 1. Important
-- crucial (essentiel, déterminant)
-- vital (absolument nécessaire)
-- significant (marquant, d'importance mesurable)
-- essential (fondamental, incontournable)
-- mandatory (obligatoire, imposé par une règle)
-
----
-
-## 2. Interesting
-- fascinating (captivant, passionnant)
-- intriguing (mystérieux, qui pique la curiosité)
-- engaging (stimulant, accrocheur)
-- captivating (qui retient l’attention)
-- thought-provoking (qui pousse à réfléchir)
-
----
-
-## 3. Problem
-- issue (problème général, neutre)
-- challenge (défi, problème constructif)
-- obstacle (blocage)
-- setback (revers, contretemps qui fait reculer)
-- difficulty (difficulté, plus neutre)
-
----
-
-## 4. Good
-- excellent (très bon)
-- outstanding (remarquable)
-- superb (superbe, élégant)
-- beneficial (avantageux, utile)
-- favorable (positif, propice)
-
----
-
-## 5. Bad
-- awful (affreux)
-- dreadful (terrible, dramatique)
-- poor (médiocre)
-- harmful (nuisible)
-- disadvantageous (désavantageux)
-
----
-
-## 6. Big
-- huge (très grand, massif)
-- enormous (énorme, impressionnant)
-- tremendous (immense, extraordinaire)
-- massive (massif, de grande ampleur)
-- substantial (considérable)
-
----
-
-## 7. Small
-- tiny (tout petit)
-- minute (minuscule)
-- slight (léger)
-- modest (modeste)
-- negligible (négligeable)
-
----
-
-## Notes
-✔️ Mettre l’accent sur la nuance :  
-- *setback* ≠ *issue* (revers vs problème générique)  
-- *vital* ≠ *mandatory* (nécessaire vs obligatoire)  
-- *thought-provoking* ≠ *engaging* (réflexion vs attractif)  
-
-⚡ Réviser en contexte : choisir le synonyme **adapté à la situation**.
