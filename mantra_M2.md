@@ -1,0 +1,1 @@
+👉 “Je n’ai pas simplement mené un travail de recherche. J’ai trouvé une manière de m’inscrire dans ce champ, d’y contribuer, et d’y prendre plaisir.” ✨
